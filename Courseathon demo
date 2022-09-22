@@ -1,1 +1,3 @@
 select *from boston_crime #pulling the dataset#
+select city from bosteon_crime where crime>100
+select country from boston_crime where crime='Rape'
